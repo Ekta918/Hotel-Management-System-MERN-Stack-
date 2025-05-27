@@ -1,0 +1,44 @@
+.contact-us-container {
+    background-color: #fdfdfd;
+    border-radius: 16px;
+    padding: 2rem;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+  }
+  
+  .contact-us-title {
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: #0d6efd;
+  }
+  
+  .contact-us-subtitle {
+    font-size: 1.2rem;
+    color: #6c757d;
+    margin-bottom: 2rem;
+  }
+  
+  .contact-form input,
+  .contact-form textarea {
+    border-radius: 8px;
+    box-shadow: none;
+    border: 1px solid #ced4da;
+  }
+  
+  .contact-form input:focus,
+  .contact-form textarea:focus {
+    border-color: #0d6efd;
+    box-shadow: 0 0 0 0.2rem rgba(13, 110, 253, 0.25);
+  }
+  
+  .contact-info h5 {
+    color: #0d6efd;
+    font-weight: 600;
+    margin-bottom: 1rem;
+  }
+  
+  .contact-info p {
+    font-size: 1rem;
+    color: #444;
+    margin-bottom: 0.75rem;
+  }
+  

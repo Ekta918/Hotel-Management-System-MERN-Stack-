@@ -1,0 +1,29 @@
+.support-container {
+    background-color: #fff;
+    padding: 2.5rem;
+    border-radius: 16px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  }
+  
+  .support-title {
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: #0d6efd;
+  }
+  
+  .support-card {
+    border: none;
+    border-radius: 16px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05);
+    transition: all 0.2s ease-in-out;
+  }
+  
+  .support-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 14px rgba(0, 0, 0, 0.1);
+  }
+  
+  .faq-redirect {
+    margin-top: 2rem;
+  }
+  
