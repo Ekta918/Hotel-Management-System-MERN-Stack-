@@ -90,3 +90,9 @@ Ekta Vaghasia
 💼 MERN Stack Developer
 📫 ektavaghasiya9@gmail.com
 🔗 www.linkedin.com/in/ekta-vaghasiya-32b12a320
+
+--
+
+## ⭐️ Support
+
+If you like this project, give it a star ⭐ and consider following for more!
