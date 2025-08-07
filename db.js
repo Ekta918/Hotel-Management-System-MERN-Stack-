@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 
-var mongoURL = Your connectio string
+var mongoURL = Your connection string
 
 mongoose.connect(mongoURL, {useUnifiedTopology: true, useNewUrlParser: true})
 
