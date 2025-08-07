@@ -67,7 +67,7 @@ router.post("/register", async (req, res) => {
     });
 
     const mailOptions = {
-      from: "youremsil@gmail.com",
+      from: "youremail@gmail.com",
       to: email,
       subject: "Welcome to Our HappyStay!",
       text: `Hello ${name},\n\nThank you for registering! We’re excited to have you on board.\n\n- The Team`,
