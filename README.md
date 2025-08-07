@@ -46,6 +46,8 @@ cd HappyStay
 cd Client
 nodemon server.js
 
+### 🌐 Frontend Setup
+
 cd HappyStay
 npm start
 
