@@ -61,13 +61,13 @@ router.post("/register", async (req, res) => {
     const transporter = nodemailer.createTransport({
       service: "gmail", // or any SMTP service you use
       auth: {
-        user: "ektavaghasiya9@gmail.com", // replace with your email
-        pass: "meag dibi mkgo gxlb", // or use environment variables!
+        user: "youremail@gmail.com", // replace with your email
+        pass: "your password", // or use environment variables!
       },
     });
 
     const mailOptions = {
-      from: "ektavaghasiya9@gmail.com",
+      from: "youremsil@gmail.com",
       to: email,
       subject: "Welcome to Our HappyStay!",
       text: `Hello ${name},\n\nThank you for registering! We’re excited to have you on board.\n\n- The Team`,
